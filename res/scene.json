@@ -1,0 +1,19 @@
+{
+    "name" : "layer 1",
+    "actors" : [
+        {
+            "name" : "Bean",
+            "price" : 0,
+            "colour" : 1,
+            "length" : 10
+        }
+    ],
+    "tilemaps" : [
+        "../res/example1.json",
+        "../res/example2.json"
+    ],
+    "assets" : [
+        "../res/sprite.png"
+    ],
+    "meshes" : []
+}
